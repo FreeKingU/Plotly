@@ -21,3 +21,14 @@
 body {
     background-color: rgb(61, 59, 66);
 }
+p {
+
+  color: #000080;
+
+}
+
+a[href] {
+
+  color: #00FFFF;
+
+}
